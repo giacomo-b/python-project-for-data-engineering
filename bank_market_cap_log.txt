@@ -1,0 +1,7 @@
+11:37:47-Aug-31-2023, ETL Job Started
+11:37:47-Aug-31-2023, Extract phase Started
+11:37:47-Aug-31-2023, Extract phase Ended
+11:37:47-Aug-31-2023, Transform phase Started
+11:37:47-Aug-31-2023, Transform phase Ended
+11:37:47-Aug-31-2023, Log phase Started
+11:37:47-Aug-31-2023, Log phase Ended
